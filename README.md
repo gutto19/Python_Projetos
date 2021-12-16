@@ -16,4 +16,4 @@ Este projeto realiza a contagem de veículos para uma simulação de trânsito p
 
  | [**Visão Geral da Simulação**](https://github.com/gutto19/Python_Projetos/tree/main/imagens)      | [**Ciclo de Semáforo**](https://github.com/gutto19/Python_Projetos/tree/main/imagens)     | [**Contagem de Veículos**](https://github.com/gutto19/Python_Projetos/tree/main/imagens)      |
 |------------|-------------| -------------|
-|  <img src="https://github.com/gutto19/Python_Projetos/blob/main/imagens/visao_geral.png" width="250"> |  <img src="https://github.com/gutto19/Python_Projetos/blob/main/imagens/ciclo.png" width="150"> |    <img src="https://github.com/gutto19/Python_Projetos/blob/main/imagens/contagem.png" widht="100"> |
+|  <img src="https://github.com/gutto19/Python_Projetos/blob/main/imagens/visao_geral.png" width="250"> |  <img src="https://github.com/gutto19/Python_Projetos/blob/main/imagens/ciclo.png" width="200"> |    <img src="https://github.com/gutto19/Python_Projetos/blob/main/imagens/contagem.png" widht="50"> |
