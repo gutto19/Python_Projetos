@@ -14,6 +14,6 @@ Este projeto realiza a contagem de veículos para uma simulação de trânsito p
  
 # Projeto realizado
 
- | [**Visão Geral da Simulação**](https://github.com/gutto19/Estudos-Java/tree/main/imagens/)      | [**Ciclo de Semáforo**](https://github.com/gutto19/Estudos-Java/tree/main/imagens)     | [**Contagem de Veículos**](https://github.com/gutto19/Estudos-Java/tree/main/imagens)      | [**Máscara de Identificação de Objeto**](https://github.com/gutto19/Estudos-Java/tree/main/imagens)     |
+ | [**Visão Geral da Simulação**](https://github.com/gutto19/Python_Projetos/tree/main/imagens)      | [**Ciclo de Semáforo**](https://github.com/gutto19/Python_Projetos/tree/main/imagens)     | [**Contagem de Veículos**](https://github.com/gutto19/Python_Projetos/tree/main/imagens)      | [**Máscara de Identificação de Objeto**](https://github.com/gutto19/Python_Projetos/tree/main/imagens)     |
 |------------|-------------| -------------|
-|  <img src="https://github.com/gutto19/Estudos-Java/blob/main/imagens/AreasDeFormas.png" width="300"> |  <img src="https://github.com/gutto19/Estudos-Java/blob/main/imagens/Imposto.png" width="250"> |    <img src="https://github.com/gutto19/Estudos-Java/blob/main/imagens/TemperaturaCemF.png" widht="250"> |     <img src="https://github.com/gutto19/Estudos-Java/blob/main/imagens/TemperaturaCemF.png" widht="250">  |
+|  <img src="https://github.com/gutto19/Python_Projetos/blob/main/imagens/visao_geral.png" width="300"> |  <img src="https://github.com/gutto19/Python_Projetos/blob/main/imagens/ciclo.png" width="250"> |    <img src="https://github.com/gutto19/Python_Projetos/blob/main/imagens/contagem.png" widht="250"> |     <img src="https://github.com/gutto19/Python_Projetos/blob/main/imagens/mascara.png" widht="250">  |
