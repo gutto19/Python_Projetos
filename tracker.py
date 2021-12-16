@@ -23,7 +23,7 @@ class EuclideanDistTracker:
                 dist = math.hypot(cx - pt[0], cy - pt[1])
 
                 # Distancia entre um obeto detectado e outro novo
-                if dist < 50:
+                if dist < 60:
                     self.center_points[id] = (cx, cy)
                     print(self.center_points)
                     objects_bbs_ids.append([x, y, w, h, id])

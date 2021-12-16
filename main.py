@@ -5,7 +5,7 @@ from fluxo import *
 # Criar objeto
 tracker = EuclideanDistTracker()
 
-cap = cv2.VideoCapture("highwayCrop.mp4")
+cap = cv2.VideoCapture("novoVia5.mkv")
 
 fps = cap.get(cv2.CAP_PROP_FPS)      # OpenCV2 version 2 used "CV_CAP_PROP_FPS"
 frame_count = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
@@ -40,7 +40,7 @@ while (cap.isOpened()):
             # Calculo da area e remocao dos elementos pequenos
             area = cv2.contourArea(cnt)
             # Tamanho da area branca do objeto
-            if area > 1000:
+            if area > 2000:
                 cv2.drawContours(roi, [cnt], -1, (0, 255, 0), 2)
                 x, y, w, h = cv2.boundingRect(cnt)
                 detections.append([x, y, w, h])
